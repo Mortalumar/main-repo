@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>                  
 	<groupId>com.mkyong</groupId>                                              
 	 
-	<artifactId>CounterWebApp</artifactId>                                                          
+	<artifactId>CounterWebApp</artifactId>                                                                 
 	<packaging>ear</packaging>                               
 
 
